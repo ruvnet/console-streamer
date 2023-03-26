@@ -1,0 +1,6 @@
+# Ignore replit files
+.replit
+.env
+
+# Ignore venv folder
+venv/
